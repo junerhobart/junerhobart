@@ -13,7 +13,6 @@ Aspiring Software Engineer with experience doing freelance Roblox development on
   <a href="https://junerhobart.itch.io" title="Itch.io: junerhobart"><img src="https://cdn.simpleicons.org/itchdotio" alt="Itch.io" height="28" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://unsplash.com/@junehobart" title="Unsplash: @junehobart"><img src="https://cdn.simpleicons.org/unsplash/ffffff" alt="Unsplash" height="28" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://bsky.app/profile/junehobart.bsky.social" title="Bluesky: @junehobart.bsky.social"><img src="https://cdn.simpleicons.org/bluesky" alt="Bluesky" height="28" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/WQ628mcr4w" title="Discord server"><img src="https://cdn.simpleicons.org/discord" alt="Discord" height="28" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Stack:
