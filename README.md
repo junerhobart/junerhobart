@@ -19,10 +19,8 @@ Aspiring Software Engineer with experience doing freelance Roblox development on
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![GdScript](https://img.shields.io/badge/Gdscript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)  
-
-&& **HTML** / **CSS🤏🏻** / **JSS/TS🤏🏻**
-
+![GdScript](https://img.shields.io/badge/Gdscript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)
 
 ## Operating Systems:
 
